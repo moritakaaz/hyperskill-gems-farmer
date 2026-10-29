@@ -37,7 +37,7 @@ automation.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/aritlhq/hyperskill-gems-farmer-bot.git
+   git clone https://github.com/moritakaaz/hyperskill-gems-farmer-bot.git
    cd hyperskill-gems-farmer-bot
    ```
 
